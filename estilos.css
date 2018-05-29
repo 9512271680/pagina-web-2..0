@@ -1,0 +1,122 @@
+@charset "utf-8";
+#todp {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#banerr {
+	width: 800px;
+	height: 150px;
+}
+#todp {
+}
+#contenido {
+}
+#titulooo {
+	text-align: center;
+}
+#gif {
+	width: 200px;
+	float: left;
+}
+#anuncio {
+	width: 200px;
+	float: right;
+}
+#texto {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#titulooooooo h3 {
+	text-align: center;
+}
+#inagic {
+	width: 300px;
+	float: right;
+}
+#te {
+	width: 500px;
+	float: left;
+	text-align: left;
+}
+#t {
+	text-align: center;
+}
+#d {
+	width: 150px;
+	height: 500px;
+	float: left;
+}
+#i {
+	width: 150px;
+	height: 500px;
+	float: right;
+}
+#tc {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#origen {
+	width: 320px;
+	float: left;
+}
+#imgori {
+	width: 480px;
+	float: right;
+}
+#desarrollo {
+	width: 620px;
+	float: left;
+	text-align: left;
+}
+#imagdesa {
+	width: 179px;
+	float: right;
+}
+.latinoamerica {
+	float: none;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#mexico {
+	width: 400px;
+	float: left;
+}
+#chile {
+	width: 400px;
+}
+#argentina {
+	width: 400px;
+}
+#j {
+	text-align: center;
+}
+#me {
+	width: 350px;
+	text-align: left;
+	float: right;
+}
+#imagen img {
+	width: 387px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+
+}
+#conta {
+	float: right;
+}
+#conta {
+}
+#visitas {
+	float: none;
+	clear: none;
+	text-align: right;
+	margin-left: auto;
+}
